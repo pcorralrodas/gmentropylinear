@@ -62,7 +62,7 @@ gmentropylinear depvar [indepvars] [if] [in], support(matrix)
 | `endpoint(#)` | Number of supports for the error term (default = 3) |
 | `nosigma` | Uses fixed endpoints instead of empirical σ |
 | `lambda(string)` | Stores estimated λ values |
-| `wmat(string)` | Stores estimated w matrix |
+| `wmat(string)` | User provided error support w matrix |
 | `residual(string)` | Stores residuals |
 | `nocons` | Suppresses the constant term |
 
