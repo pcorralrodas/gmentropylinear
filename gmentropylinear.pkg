@@ -1,0 +1,8 @@
+v 1
+d 'gmentropylinear': Stata command for Generalized Maximum Entropy Linear models
+d 
+d Distribution-Date: 9/4/2024
+d 
+d 
+F g/gmentropylinear.ado
+F g/gmentropylinear.sthlp

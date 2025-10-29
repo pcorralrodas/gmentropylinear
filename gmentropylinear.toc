@@ -1,0 +1,7 @@
+v 1
+d Materials by Paul Corral, Daniel Kuehn, and Ermengarde Jabir (American University)
+d The World Bank
+d pcorralrodas@worldbank.org
+d 
+ 
+p gmentropylinear
