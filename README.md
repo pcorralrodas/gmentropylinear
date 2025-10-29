@@ -150,7 +150,6 @@ If you use this command, please cite:
 ## 🧰 Related Commands
 
 - [`gmentropylogit`](https://ideas.repec.org/c/boc/bocode/s458151.html): Generalized Maximum Entropy for discrete choice models (Corral & Terbish, 2015)  
-- [`gme`](https://github.com/amos-golan/gme): Generalized Maximum Entropy library in R (Amos Golan)
 
 ---
 
